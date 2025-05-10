@@ -1,16 +1,57 @@
-# jetbrains-extension-pack README
+# JetBrains Extension Pack
 
-## Working with Markdown
+**Emulates the look and feel of a JetBrains IDE in Visual Studio Code.**  
+This extension pack brings together themes, keybindings, fonts, syntax highlighting, and utilities to help JetBrains users feel right at home in VS Code.
 
-You can author your README using Visual Studio Code. Here are some useful editor keyboard shortcuts:
+## Features
 
-* Split the editor (`Cmd+\` on macOS or `Ctrl+\` on Windows and Linux).
-* Toggle preview (`Shift+Cmd+V` on macOS or `Shift+Ctrl+V` on Windows and Linux).
-* Press `Ctrl+Space` (Windows, Linux, macOS) to see a list of Markdown snippets.
+- **JetBrains-like Keybindings**  
+  Familiar keyboard shortcuts from IntelliJ IDEA, CLion, PyCharm, and more.
 
-## For more information
+- **JetBrains Mono Font**  
+  A clean, readable font designed specifically for developers.
 
-* [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
-* [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
+- **JetBrains-like Themes and Icons**  
+  A dark, sleek UI with JetBrains-style icons and color schemes.
 
-**Enjoy!**
+- **Utilities Inspired by JetBrains IDEs**  
+  - Project management
+  - Git integration
+  - Markdown styling
+  - Serial monitor
+  - Code line statistics
+  - Bracket selection
+  - External app launching
+
+## Included Extensions
+
+| Extension | Description |
+|----------|-------------|
+| `alefragnani.project-manager` | Manage multiple projects easily |
+| `asrepairs.clion-dark-perfected` | JetBrains CLion-like dark theme |
+| `asrepairs.jetbrains-version-control` | JetBrains-style Git sidebar |
+| `bierner.markdown-preview-github-styles` | GitHub-style markdown rendering |
+| `chadalen.vscode-jetbrains-icon-theme` | JetBrains-style icons |
+| `henrikvilhelmberglund.incrementor-henrikvilhelmberglund` | Increase/decrease numbers with a shortcut |
+| `isudox.vscode-jetbrains-keybindings` | JetBrains keymap emulation |
+| `jeff-hykin.better-cpp-syntax` | Enhanced C++ syntax support |
+| `jhasse.bracket-select2` | Bracket-aware selection |
+| `ms-vscode.vscode-serial-monitor` | Serial port monitor |
+| `narasimapandiyan.jetbrainsmono` | JetBrains Mono developer font |
+| `praveencrony.total-lines` | Displays total line count in status bar |
+| `yutengjing.open-in-external-app` | Open files with external applications |
+| `ziyasal.vscode-open-in-github` | Quickly open files or projects in GitHub |
+
+## Installation
+
+1. Search for **JetBrains Extension Pack** in the VS Code Extensions Marketplace.
+2. Click **Install** to install all bundled extensions.
+
+## Feedback
+
+Have suggestions or want to request adding another extension?  
+Feel free to open an issue or contribute!
+
+---
+
+**Enjoy the JetBrains experience inside VS Code.**
