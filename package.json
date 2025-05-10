@@ -1,0 +1,28 @@
+{
+  "name": "jetbrains-extension-pack",
+  "displayName": "JetBrains Extension Pack",
+  "description": "Emulates the look and feel of a JetBrains IDE for VSCode",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.100.0"
+  },
+  "categories": [
+    "Extension Packs"
+  ],
+  "extensionPack": [ 
+    "alefragnani.project-manager", 
+    "asrepairs.clion-dark-perfected", 
+    "asrepairs.jetbrains-version-control", 
+    "bierner.markdown-preview-github-styles", 
+    "chadalen.vscode-jetbrains-icon-theme", 
+    "henrikvilhelmberglund.incrementor-henrikvilhelmberglund", 
+    "isudox.vscode-jetbrains-keybindings", 
+    "jeff-hykin.better-cpp-syntax", 
+    "jhasse.bracket-select2", 
+    "ms-vscode.vscode-serial-monitor", 
+    "narasimapandiyan.jetbrainsmono", 
+    "praveencrony.total-lines", 
+    "yutengjing.open-in-external-app", 
+    "ziyasal.vscode-open-in-github"
+  ]
+}
